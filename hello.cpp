@@ -17,5 +17,5 @@ int main(){
     typeSize("bool");
     typeSize("double");
     return 0;
-    // test comment
+    // test comment modified to test git
 }
